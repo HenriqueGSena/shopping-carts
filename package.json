@@ -2,9 +2,9 @@
   "name": "shopping-carts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/app.js"
   },
   "keywords": [],
   "author": "",
